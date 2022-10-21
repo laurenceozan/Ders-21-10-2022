@@ -1,0 +1,35 @@
+"""print(5+6)
+print(5-6)
+print(5*6)
+#print(int (5/6))
+#print(7//6)
+print(2**6)
+print(2*7-3+8/2)"""
+
+print("Istanbul'un fethi")
+print("yazilim" + "bilimi")
+print("yazilim" , "bilimi")
+print("tahir ile zühre")
+print("tahir" "ile" "zühre")
+print("tahir " "ile " "zühre")
+
+a = "Tahir"
+b = "Zühre"
+c = "Ile"
+
+#print(a+b)
+#print(a,b)
+#print(b+c+a)
+#print(a*5)
+#print("\n")
+#print(a*5)
+
+a = "-"
+b = "<"
+c = ">"
+d = " "
+e = "0"
+print(a*10)
+print(d*3+e+d*2+e)
+print(d*3+b+d+d+c)
+print(d*3+a*5)"""
